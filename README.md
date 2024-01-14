@@ -1,8 +1,14 @@
 # crewai-milvustool
-Milvus Vector Database implementation for CrewAI
+Milvus Vector Database implementation for CrewAI using Ollama
 
 [CrewAI](https://github.com/joaomdmoura/crewAI)
 [Milvus](https://milvus.io/)
+[Ollama](https://ollama.ai)
+
+Currently you will need to update the following for it to work correctly for your environment:
+
+1. Make sure you have the correct Ollama Model defined.
+2. Make sure that the Milvus DB connection info is correct.
 
 Usage Example:
 
