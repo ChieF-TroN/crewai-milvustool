@@ -1,6 +1,9 @@
 # crewai-milvustool
 Milvus Vector Database implementation for CrewAI
 
+[CrewAI](https://github.com/joaomdmoura/crewAI)
+[Milvus](https://milvus.io/)
+
 Usage Example:
 
 from MilvusCrewAITool import MilvusTool
