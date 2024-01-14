@@ -10,6 +10,10 @@ Currently you will need to update the following for it to work correctly for you
 1. Make sure you have the correct Ollama Model defined.
 2. Make sure that the Milvus DB connection info is correct.
 
+TODO:
+1. Add connection and model variables.
+2. Add options for other embedding systems.
+
 Usage Example:
 
 ```
