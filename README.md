@@ -6,7 +6,7 @@ Milvus Vector Database implementation for CrewAI
 
 Usage Example:
 
-from MilvusCrewAITool import MilvusTool
+`from MilvusCrewAITool import MilvusTool
 
 db_store = Tool(
     name="Store data",
@@ -29,4 +29,4 @@ data_scraper = Agent(
     verbose=True,
     allow_delegation=True,
     tools=[db_store, db_retrieve],
-)
+)`
